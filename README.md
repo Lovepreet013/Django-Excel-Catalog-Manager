@@ -168,7 +168,3 @@ The Excel spreadsheet should contain the following columns in the first sheet:
 | `GET` / `POST` | `/api/categories/` | List or create categories | **Yes** |
 
 ---
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
